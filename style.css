@@ -51,14 +51,14 @@ h1{
 }
 #web-dev-exp{
     border-left: 10px solid;
-    border-image: linear-gradient(rgb(blue, cyan);
+    border-image: linear-gradient(red, blue);
     border-image-slice: 1;
 }
 #tax-prep-exp{
     border-left: 10px solid;
-    border-image: linear-gradient(purple, tomato);
+    border-image: linear-gradient(yellow, green);
     border-image-slice: 1;
 }
 footer p {
-    text-align: right;
+    text-align: center;
 }
